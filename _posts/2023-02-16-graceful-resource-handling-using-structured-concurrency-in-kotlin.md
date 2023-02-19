@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graceful Resource Handling Using Structured Concurrency in Kotlin
+title: Zero downtime deployment with Arrow and Ktor Native
 categories: [Kotlin, StructuredConcurrency, Resource, Kubernetes, Microservices]
 ---
 
